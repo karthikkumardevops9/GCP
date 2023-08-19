@@ -1,0 +1,23 @@
+1) Source code management
+   a)Bit Buket
+   b)Mercurial
+   c)GitHub
+   d) Cloud Source Repository (GCP)
+2) Build
+   a)Jenkins
+   b)CircleCI
+   c)TeamCity
+   d)Cloud Build (GCP)
+3) Artifact Storage
+   a)Docker Hub
+   b)JFrog Artifactory
+   c)AWS S3
+   d)Container Registry (GCP)
+   e)Artifact Registry (GCP)
+4) Deployment via GCP
+   a) Comput Engine
+   b) Kubernetes
+   c) App Engine
+   d) Cloud Run
+   e) Cloud Function
+   
